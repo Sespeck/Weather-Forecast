@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="black_shade_1">#292D36</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#CCCCCC</color>
+    <color name="status_bar_day">#005A78</color>
+    <color name="status_bar_night">#040F12</color>
 </resources>
